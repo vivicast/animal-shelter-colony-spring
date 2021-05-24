@@ -13,7 +13,7 @@
     <!-- AnimalShelterColony -->
     <groupId>es.animal.protection</groupId>
     <artifactId>animal-shelter-colony</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>1.0.0-RELEASE</version>
     <name>${project.groupId}.${project.artifactId}</name>
     <description>Animal Shelter Colony application</description>
     <packaging>jar</packaging>
